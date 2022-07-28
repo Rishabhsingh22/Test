@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Sample-Git-Project
+  description: An example of a Backstage application.
+  annotations:
+      gitlab.com/project-id: '38108399' #1234. This must be in quotes and can be found under Settings --> General
+  # Example for optional annotations
+  # annotations:
+  #   github.com/project-slug: backstage/backstage
+  #   backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: john@example.com
+  lifecycle: experimental
