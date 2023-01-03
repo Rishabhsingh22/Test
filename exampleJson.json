@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Oncology",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Infectious diseaces and vaccines",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Immunology",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Neuroscience",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cardiovascular and metabolism",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pulmonary Hypertension",
+    "children": [
+      {
+        "name": "Phase 1",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 2",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      },
+      {
+        "name": "Phase 3",
+        "children": [
+          {
+            "name": "01",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "02",
+            "children": [
+              { "name": "Scope 1", "size": 3938 },
+              { "name": "Scope 2", "size": 3812 },
+              { "name": "Scope 3", "size": 6714 },
+              { "name": "Scope 4", "size": 743 }
+            ]
+          },
+          {
+            "name": "03",
+            "children": [{ "name": "Scope 1", "size": 7074 }]
+          }
+        ]
+      }
+    ]
+  }
+]
